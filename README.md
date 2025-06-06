@@ -1,2 +1,1 @@
-# gitclass062025
-This is ui test automation project 
+i am Rahwa i work with this team
